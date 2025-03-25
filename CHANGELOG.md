@@ -29,3 +29,7 @@
 ## 0.1.0
 
 - move to pigeon for communication
+
+## 0.1.1
+
+- Add optional `isDismissable` param to `openURL` & `openURLs` (defaults to `true`, system default)
