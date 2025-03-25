@@ -33,3 +33,4 @@
 ## 0.1.1
 
 - Add optional `isDismissable` param to `openURL` & `openURLs` (defaults to `true`, system default)
+- Ability to check whether a file preview is supported by calling `canOpenURL(String url)`
